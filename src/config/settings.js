@@ -1,0 +1,9 @@
+export default {
+    PUSH_TOKEN: 'PUSH_TOKEN',
+    ID: 'ID',
+    CODE: 'CODE',
+    FIRST_NAME: 'FIRST_NAME',
+    LAST_NAME: 'LAST_NAME',
+    THERAPY_ID: 'THERAPY_ID',
+    HAS_STARTED_THERAPY: 'HAS_STARTED_THERAPY'
+};

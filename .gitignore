@@ -1,0 +1,17 @@
+node_modules
+.expo
+npm-debug.*
+ios/build
+.env
+*.jsbundle
+*.jsbundle.meta
+.idea
+android/app/build
+android/app/release
+android/build
+android/app/src/main/gen
+android/gradle/wrapper
+.gradle
+*.iml
+local.properties
+*.keystore
