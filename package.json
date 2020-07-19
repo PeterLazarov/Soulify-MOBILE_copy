@@ -23,7 +23,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
     "react": "16.0.0-beta.5",
